@@ -35,7 +35,7 @@ const TOKENS = {
 module.exports = {
   id: 'theme-parchment',
   name: 'Parchment',
-  version: '0.1.0',
+  version: '0.1.1',
   description: 'Warm paper palette. Official Dripnex theme.',
 
   activate(context) {
